@@ -1,6 +1,7 @@
 # practica_github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 String nombre = Facundo;
 =======
 String Pergo 1
@@ -9,3 +10,6 @@ String Pergo 1
 private String nombre = "Mariano"
 
 >>>>>>> feature/mariano/login
+=======
+String Mati 1
+>>>>>>> feature/matias/login
